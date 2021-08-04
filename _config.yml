@@ -1,0 +1,20 @@
+plugins:
+  - jekyll-relative-links
+relative_links:
+  enabled: true
+  collections: true
+exclude:
+  - CONTRIBUTING.md
+  - README.md
+  - LICENSE.md
+  - COPYING.md
+  - CODE_OF_CONDUCT.md
+  - CONTRIBUTING.md
+  - ISSUE_TEMPLATE.md
+  - PULL_REQUEST_TEMPLATE.md
+  
+title: Health Data Lab
+description: "Contact: larsab@cs.uit.no"
+logo: UiT_Logo_Eng_2l_Bla_RGB.png
+
+theme: jekyll-theme-minimal
