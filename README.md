@@ -1,2 +1,2 @@
 # uit-dtil.github.io
-Digital Technology Innovation Lab
+http://uit-dtil.github.io
