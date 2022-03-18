@@ -4,9 +4,16 @@ We invite all Norwegian companies, the public sector, and other organizations to
 
 This is a great opportunity to connect with students having an interest and background in computer science and machine learning. Presenting your company and AI projects may help find relevant students and future employees. By offering a master project and recruiting a student for 6 to 12 months you can strengthen your team, get a new perspective on your projects, transmit your values and possibly find a new employee.
 
-The event is hosted by the [Digital Technology Innovation Lab](https://uit-dtil.github.io/) and [SFI Visual Intelligence]https://www.visual-intelligence.no/() at the Departments of [Computer Science](https://uit.no/enhet/ifi) and [Physics and Technology](https://uit.no/enhet/ift). The event will be on the **5th of April from 14:15-16:00**. The companies and organizations are invited to give a short online presentation, and the students can join online or at Teknologibygget: Auditorium, 1.022. 
+The event is hosted by the [Digital Technology Innovation Lab](https://uit-dtil.github.io/) and [SFI Visual Intelligence]https://www.visual-intelligence.no/() at the Departments of [Computer Science](https://uit.no/enhet/ifi) and [Physics and Technology](https://uit.no/enhet/ift). The event will be on the **5th of April from 14:15-16:00**. The companies and organizations are invited to give a short online presentation, and the students can join online or at Realfagsbygget: Sore Auditorium (B302). 
 
-If you are interested in hosting UiT master students for their final year project we ask you to fill out **THIS FORM**. including contact persons and a high-level description of the project. We will make this information available to all students. The **deadline for registration is 1st of April**. We will provide feedback and invite those suitable for a master’s project to give a pitch at the event.
+If you are interested in hosting UiT master students for their final year project we ask you to register by sending an email to  Lars Ailo Bongo <lars.ailo.bongo@uit.no>and Benjamin Ricaud <benjamin.ricaud@uit.no> where you provide the following information:
+1. Name and email of your contact person(s) 
+2. A brief introduction of the company or organization 
+3. A short text describing the project(s) you want to propose
+4. The resources, including data, that you will make available for the project(s)
+5. If you want to present at the event, the name and email of the presenter
+
+We will make this information available to all students. The **deadline for registration is 1st of April**. We will provide feedback and invite those suitable for a master’s project to give a pitch at the event.
 
 For the presentation you should prepare a few slides describing your company, and some projects that are ongoing. Examples of master projects you had in the past would also be beneficial. The presentation should be maximum 5 minutes.
 
