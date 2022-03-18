@@ -14,7 +14,7 @@ exclude:
   - PULL_REQUEST_TEMPLATE.md
   
 title: Digital Technology Innovation Lab
-description: "Contact: lars.ailo.bongo@uit.no or dominic.riley@uit.no"
+description: "Contact: lars.ailo.bongo@uit.no"
 logo: UiT_Logo_Eng_2l_Bla_RGB.png
 
 theme: jekyll-theme-minimal
