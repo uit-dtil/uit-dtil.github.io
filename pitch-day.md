@@ -6,7 +6,7 @@ This is a great opportunity to connect with students having an interest and back
 
 The event is hosted by the [Digital Technology Innovation Lab](https://uit-dtil.github.io/) and [SFI Visual Intelligence](https://www.visual-intelligence.no/) at the Departments of [Computer Science](https://uit.no/enhet/ifi) and [Physics and Technology](https://uit.no/enhet/ift). The event will be on the **5th of April from 14:15-16:00**. The companies and organizations are invited to give a short online presentation, and the students can join online or at Realfagsbygget: Sore Auditorium (B302). 
 
-If you are interested in hosting UiT master students for their final year project we ask you to register by sending an email to  Lars Ailo Bongo <lars.ailo.bongo@uit.no>and Benjamin Ricaud <benjamin.ricaud@uit.no> where you provide the following information:
+If you are interested in hosting UiT master students for their final year project we ask you to register by sending an email to  Lars Ailo Bongo <lars.ailo.bongo@uit.no> and Benjamin Ricaud <benjamin.ricaud@uit.no> where you provide the following information:
 1. Name and email of your contact person(s) 
 2. A brief introduction of the company or organization 
 3. A short text describing the project(s) you want to propose
