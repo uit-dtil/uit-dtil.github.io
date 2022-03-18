@@ -1,6 +1,6 @@
 # Pitch-day for external master's projects in computer science and machine learning
 
-<img src="VI_main_960px-p-500.png" width="464" height="141">
+<img src="VI_main_960px-p-500.png" width="250" height="76">
 
 We invite all Norwegian companies, the public sector, and other organizations to present your ideas for master’s projects for the computer science and machine learning students at UiT. 
 
