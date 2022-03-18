@@ -1,5 +1,7 @@
 # Pitch-day for external master's proejcts in computer science and machine learning
 
+![Visual Intelligence logo](VI_main_960px-p-500.png)
+
 We invite all Norwegian companies, the public sector, and other organizations to present your ideas for master’s projects for the computer science and machine learning students at UiT. 
 
 This is a great opportunity to connect with students having an interest and background in computer science and machine learning. Presenting your company and AI projects may help find relevant students and future employees. By offering a master project and recruiting a student for 6 to 12 months you can strengthen your team, get a new perspective on your projects, transmit your values and possibly find a new employee.
