@@ -12,8 +12,8 @@ If you have a research project with commercial potential, a student and want to 
 
 Contact information:
 - Innovation leader: Vacant
-- Lab leader: Lars Ailo Bongo <[lars.ailo.bongo@uit.no](mailto:lars.ailo.bongo@uit.no)>
-- We are located in room [A210 in Realfagsbygget](https://use.mazemap.com/#v=1&zlevel=2&center=18.976523,69.681532&zoom=17.6&campusid=5&starttype=poi&start=174540) on the Tromsø campus of UiT. 
+- Lab leader: Benjamin Ricaud <[benjamin.ricaud@uit.no](mailto:benjamin.ricaud@uit.no)> and Lars Ailo Bongo <[lars.ailo.bongo@uit.no](mailto:lars.ailo.bongo@uit.no)>
+- We are located in room [B272 in Forskeningsparken](https://use.mazemap.com/#v=1&config=uit&zlevel=2&center=18.987598,69.680524&zoom=18&sharepoitype=poi&sharepoi=825022&campusid=5) and [A210 in Realfagsbygget](https://use.mazemap.com/#v=1&zlevel=2&center=18.976523,69.681532&zoom=17.6&campusid=5&starttype=poi&start=174540) on the Tromsø campus of UiT. 
 
 The lab is a collaboration between the [Department of Computer Science](https://uit.no/enhet/ifi) and [SFI Visual Intelligence](https://www.visual-intelligence.no/). Part of the funding was from a Næringslivsmentor grant from Troms & Finnmark fylkeskommune.
 
