@@ -17,7 +17,7 @@ If you are interested in hosting UiT master students for their final year projec
 4. The resources, including data, that you will make available for the project(s)
 5. If you want to present at the event, the name and email of the presenter
 
-We will make this information available to all students. The **deadline for registration is 10th of March**. We will provide feedback and invite those suitable for a master’s project to give a pitch at the event.
+We will make this information available to all students. The **deadline for registration is 1st of March**. We will provide feedback and invite those suitable for a master’s project to give a pitch at the event. We will select the presenters on a "first come first served" basis but prioritize startups and local companies. 
 
 For the presentation you should prepare a few slides describing your company, and some projects that are ongoing. Examples of master projects you had in the past would also be beneficial. The presentation should be maximum 5 minutes.
 
