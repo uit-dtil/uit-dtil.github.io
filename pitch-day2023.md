@@ -1,3 +1,7 @@
+---
+title: Pitchday 2023
+---
+
 # Pitch-day 2023 for external master's projects in computer science and machine learning
 
 <img src="VI_main_960px-p-500.png" width="250" height="76">
