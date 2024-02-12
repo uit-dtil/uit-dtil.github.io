@@ -11,9 +11,8 @@ The Lab provides a physical place where students can meet to work together on de
 If you have a research project with commercial potential, a student and want to be involved in the lab activities, or you have other ideas for startups, **get in touch** to hear more about opportunities we have right now or to discuss an idea you would like to develop. We facilitate student involvement in the form of small projects, bachelor, special curriculum, or master projects. 
 
 Contact information:
-- Innovation leader: Vacant
-- Lab leader: Benjamin Ricaud <[benjamin.ricaud@uit.no](mailto:benjamin.ricaud@uit.no)> and Lars Ailo Bongo <[lars.ailo.bongo@uit.no](mailto:lars.ailo.bongo@uit.no)>
-- We are located in room [B272 in Forskeningsparken](https://use.mazemap.com/#v=1&config=uit&zlevel=2&center=18.987598,69.680524&zoom=18&sharepoitype=poi&sharepoi=825022&campusid=5) and [A210 in Realfagsbygget](https://use.mazemap.com/#v=1&zlevel=2&center=18.976523,69.681532&zoom=17.6&campusid=5&starttype=poi&start=174540) on the Tromsø campus of UiT. 
+- Innovation leader: Anna Dranovska <[anna.dranovska@uit.no](anna.dranovska@uit.no)> [A241 in Realfagbygget](https://use.mazemap.com/#v=1&zlevel=2&center=18.976681,69.681580&zoom=19.1&campusid=5&sharepoitype=poi&sharepoi=174564)
+- Lab leader: Benjamin Ricaud <[benjamin.ricaud@uit.no](mailto:benjamin.ricaud@uit.no)> and Lars Ailo Bongo <[lars.ailo.bongo@uit.no](mailto:lars.ailo.bongo@uit.no)>. We are located in room [B272 in Forskeningsparken](https://use.mazemap.com/#v=1&config=uit&zlevel=2&center=18.987598,69.680524&zoom=18&sharepoitype=poi&sharepoi=825022&campusid=5) and [A210 in Realfagsbygget](https://use.mazemap.com/#v=1&zlevel=2&center=18.976523,69.681532&zoom=17.6&campusid=5&starttype=poi&start=174540) on the Tromsø campus of UiT. 
 
 The lab is a collaboration between the [Department of Computer Science](https://uit.no/enhet/ifi) and [SFI Visual Intelligence](https://www.visual-intelligence.no/). Part of the funding was from a Næringslivsmentor grant from Troms & Finnmark fylkeskommune.
 

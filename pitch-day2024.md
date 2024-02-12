@@ -28,7 +28,7 @@ For the presentation you should prepare a few slides describing your company, an
 
 The students invited to the event are starting their 4th or 5th year in the fall. Most students do their master’s project in their 5th year, but it is also possible to work on the project over the 4th and 5th year. The master’s projects are either over two semesters (60 credits), or only a pre-project in the fall (10 or 20 credits) followed by the master’s project in the spring (30 credits). They are supervised by at least 2 persons, someone from the company, directly involved in the project, and by a faculty member at UiT. 
 
-For more information about master’s project in collaboration with industry at UiT refer to [the department of comptuer science information page](https://uit.no/enhet/ifi#boks2) (in Norwegian only) where you will also find the standard agreement ([in Norwegian](https://uit.instructure.com/files/1799466/download?download_frd=1) and [in English](https://uit.instructure.com/files/1799467/download?download_frd=1)) that regulates IPR in the project.
+For more information about master’s project in collaboration with industry at UiT refer to [the department of computer science information page](https://uit.no/enhet/ifi#boks2) (in Norwegian only) where you will also find the standard agreement ([in Norwegian](https://uit.instructure.com/files/1799466/download?download_frd=1) and [in English](https://uit.instructure.com/files/1799467/download?download_frd=1)) that regulates IPR in the project.
 
 ## Contact
 
