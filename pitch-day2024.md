@@ -20,7 +20,7 @@ If you are interested in having UiT master students doing their final year proje
 3. A short text describing the project(s) you want to propose
 
 
-We plan to make this information available to all students (unless you want to keep it confidential). The **deadline for registration is 1st of March**. We will provide feedback and invite those suitable for a master’s project to give a pitch at the event. We will select the presenters on a "first come first served" basis but prioritize startups and local companies. 
+We plan to make this information available to all students (unless you want to keep it confidential). The **deadline for registration is 8th of March**. We will provide feedback and invite those suitable for a master’s project to give a pitch at the event. We will select the presenters on a "first come first served" basis but prioritize startups and local companies. 
 
 For the presentation you should prepare a few slides describing your company, and some projects that are ongoing. Examples of master projects you had in the past would also be beneficial. The presentation should be maximum 5 minutes.
 
