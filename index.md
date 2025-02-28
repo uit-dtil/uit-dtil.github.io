@@ -17,5 +17,5 @@ Contact information:
 The lab is a collaboration between the [Department of Computer Science](https://uit.no/enhet/ifi) and [SFI Visual Intelligence](https://www.visual-intelligence.no/). Part of the funding was from a Næringslivsmentor grant from Troms & Finnmark fylkeskommune.
 
 
-# Pitchday 2024 at UiT
-If you are a company, consider joining us for the [Pitchday 2024](https://uit-dtil.github.io/pitch-day2024.html) at UiT on the 14th of March.
+# Pitchday 2025 at UiT
+If you are a company, consider joining us for the [Pitchday 2025](https://uit-dtil.github.io/pitch-day2025.html) at UiT on the 20th of March.
