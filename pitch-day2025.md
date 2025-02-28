@@ -14,7 +14,7 @@ The event is hosted by the [Digital Technology Innovation Lab](https://uit-dtil.
 
 ## How to participate
 
-If you are interested in having UiT master students doing their final year project with you, we ask you to register by [filling this form](https://forms.office.com/Pages/ResponsePage.aspx?id=LSF_Ttt0Y0Wle4rkTtBVJtDeC7jwvjBMndB__Pt-OgtUOFZROU03Szg4SldEMDNZQ0JXQ045M1NSMS4u). You will be asked to provide the following information:
+If you are interested in having UiT master students doing their final year project with you, we ask you to register by [filling this form](https://forms.office.com/e/J5nGKteK78). You will be asked to provide the following information:
 1. Name and email of your contact person(s) 
 2. A brief introduction of the company or organization 
 3. A short text describing the project(s) you want to propose
