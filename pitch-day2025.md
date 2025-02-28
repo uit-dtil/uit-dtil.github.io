@@ -10,7 +10,7 @@ We invite all Norwegian companies, the public sector, and other organizations to
 
 This is a great opportunity to connect with students having an interest and background in computer science/engineering and machine learning. Presenting your company and AI or ICT projects may help find relevant students and future employees. By offering a master project and recruiting a student for 6 to 12 months you can strengthen your team, get a new perspective on your projects, transmit your values and possibly find a new employee.
 
-The event is hosted by the [Digital Technology Innovation Lab](https://uit-dtil.github.io/) and [SFI Visual Intelligence](https://www.visual-intelligence.no/) at the Departments of [Computer Science](https://uit.no/enhet/ifi) and [Physics and Technology](https://uit.no/enhet/ift). The event will be on the **14th of March from 14:00-16:00**. The companies and organizations are invited to give a short in person presentation to the students at UiT.
+The event is hosted by the [Digital Technology Innovation Lab](https://uit-dtil.github.io/) and [SFI Visual Intelligence](https://www.visual-intelligence.no/) at the Departments of [Computer Science](https://uit.no/enhet/ifi) and [Physics and Technology](https://uit.no/enhet/ift). The event will be on the **20th of March from 14:00-16:00**. The companies and organizations are invited to give a short in person presentation to the students at UiT.
 
 ## How to participate
 
